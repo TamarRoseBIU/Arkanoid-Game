@@ -1,10 +1,10 @@
 # Arkanoid Game 🎮
 
-A classic brick-breaker arcade game built in Java with a unique color-matching twist!
+A classic brick-breaker arcade game built in Java with color-matching mechanics
 
 ## 🎯 Game Overview
 
-Control a paddle to bounce a ball and destroy colored blocks in this modern take on the classic Arkanoid game. The twist? The ball can only destroy blocks of different colors and changes color when it hits a block!
+Control a paddle to bounce a ball and destroy colored blocks. The ball changes color when hitting blocks and can only destroy blocks of different colors, adding a strategic element to the classic gameplay.
 
 ## 🚀 Features
 
@@ -47,7 +47,7 @@ The game demonstrates key programming concepts:
 
 ## 🎨 Color System Logic
 
-The unique color mechanic adds strategic depth:
+The color mechanic adds strategic depth to gameplay:
 - Ball starts with an initial color
 - Upon collision with a block of a different color:
   - Block is destroyed
