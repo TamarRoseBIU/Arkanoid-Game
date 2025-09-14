@@ -33,7 +33,7 @@ Control a paddle to bounce a ball and destroy colored blocks. The ball changes c
 
 ## 🎮 How to Play
 
-1. **Launch the game** and use arrow keys or mouse to control the paddle
+1. **Launch the game** and use arrow keys to control the paddle
 2. **Keep the ball in play** by bouncing it off your paddle
 5. **Clear all blocks** to win, or lose all balls for game over
 
