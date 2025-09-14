@@ -50,11 +50,11 @@ The game demonstrates key programming concepts:
 The unique color mechanic adds strategic depth:
 - Ball starts with an initial color
 - Upon collision with a block of a different color:
-  - Block is destroyed ✅
+  - Block is destroyed
   - Ball adopts the block's color
   - Player earns points
 - If ball hits a block of the same color:
-  - Block remains intact ❌
+  - Block remains intact
   - Ball bounces off without destruction
 
 ---
